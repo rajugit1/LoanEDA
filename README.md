@@ -45,30 +45,29 @@ Default Rate more in states like  NE, NV , AK
 Loan Terms High between 25 to 45 Months
 Defaulters more in 60 months term.
 Delinquency check important for loan processing along with Annual Income, Emp length
-![image](https://github.com/rajugit1/LoanEDA/assets/25248845/b0b15a4d-999d-4d73-8024-72ed3e7a1d3a)
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+import plotly.express as px
+import plotly.graph_objects as go
 
+pandas version: 2.0.3
+seaborn version: 0.12.2
+numpy version: 1.23.5
+plotly version: 5.17.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- References -- Kaggle,Upgrad
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [[@githubusername](https://github.com/rajugit1)] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->

@@ -34,6 +34,10 @@ In other words, the company wants to understand the driving factors (or driver v
 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
 
+Dataset provided by Upgrad
+Also available at "https://raw.githubusercontent.com/rajugit1/LoanEDA/master/loan.csv"
+Data Dictionary available in the same path
+
 ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis

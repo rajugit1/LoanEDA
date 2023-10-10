@@ -39,10 +39,14 @@ Also available at "https://raw.githubusercontent.com/rajugit1/LoanEDA/master/loa
 Data Dictionary available in the same path
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Default Rate more in small business
+Default Rate more with 10+ Years experienced
+Default Rate more in states like  NE, NV , AK
+Loan Terms High between 25 to 45 Months
+Defaulters more in 60 months term.
+Delinquency check important for loan processing along with Annual Income, Emp length
+![image](https://github.com/rajugit1/LoanEDA/assets/25248845/b0b15a4d-999d-4d73-8024-72ed3e7a1d3a)
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

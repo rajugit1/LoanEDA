@@ -5,10 +5,6 @@ If the applicant is likely to repay the loan, then not approving the loan result
 
 If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
- 
-
-The data given below contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
-
 
 ## Table of Contents
 * [General Info](#general-information)
